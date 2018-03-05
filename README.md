@@ -2,14 +2,14 @@ ecoterms
 ==========
 
 # what is ecoterms?
-ecoterms is an interface designed to run a series of triad tasks; basically mini survey questions where the user is presented with three words, and asked to remove the outlying term. 
+ecoterms is a shiny app designed to run a series of triad tasks; survey questions where the user is presented with three words, and asked to remove the outlying term. 
 
 # why doesn't this code work?
-This repo stores the code needed to run ecoterms, but it won't work perfectly in it's current form. That is, this code...
+This repo stores the code needed to run ecoterms, and all the files and folders are named correctly and are in the correct locations. BUT it won't work perfectly in it's current form. That is, this code...
 ```
 runGitHub( "ecoterms", "mjwestgate")
 ```
-...doesn't work.
+...shouldn't work. Sorry about that; but there is a reason!
 
 ecoterms is unusual because it was built to show a different combination of words to each user. This meant having some way to check which combinations of words had already been used. To do this, I linked two data sources. One is the 'master' list of terms that are available in the game, which is built in to the app (in the 'data' folder). The second is a google sheet with three columns. The following code builds a data.frame with the correct properties:
 
