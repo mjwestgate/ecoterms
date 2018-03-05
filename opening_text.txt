@@ -1,0 +1,9 @@
+<h1>ecoterms!</h1>
+<b>A word association game for ecologists</b><br><br>
+<em>This game is part of a research project by <a href='http://martinwestgate.com' target='_blank'>Martin Westgate (ANU)</a> to understand how concepts from ecology and evolution relate to one another. You can read a detailed description in the <a href='https://martinwestgate.files.wordpress.com/2017/11/ecoterms_participant_information_sheet.pdf' target='_blank'>Participant Information Sheet [PDF]</a>, or get a basic overview below.</em><br><br>
+
+The game consists of a screen with three words on it, like this:<br>
+
+<img src='app_example_image.png' alt='example #1'><br><br>
+
+Your job is to select the word that is <b><em>most unlike the other two</em></b>. In this case, 'rooster' and 'chicken' are related, so we select the outlying word 'firework'.<br><br>Clicking any one of the words will cause a new set to appear. After 10 clicks, you'll see the network of terms that you've created.<br><br>That's it! If you'd like to play, click here to start:<br>

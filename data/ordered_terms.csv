@@ -1,0 +1,132 @@
+"term","terms$reiners_term","x","y"
+"Acclimation","Acclimation",1.90194658361723,-7.22604133122852
+"Adaptation","Adaptation",-0.856206255908107,-0.426015176677484
+"Age Class Structure","AgeClassStructure",-1.33164164213359,3.38608620899397
+"Allee Effect","AlleeEffect",-0.478820991918273,-5.65980575783235
+"Allele","Allele",1.49967153571411,-1.52605934737363
+"Allocation","Allocation",3.35061633969383,1.00709025988833
+"Allopatry","Allopatry",2.40696693185786,1.92780376689981
+"Autotrophy","Autotrophy",0.896839392139635,-1.07802417519015
+"Bioaccumulation","Bioaccumulation",0.772590782840599,-2.02412080593819
+"Biogeographic Realm","BiogeopgraphicRealms",2.22182125606904,3.35457422430071
+"Biomass","Biomass",0.237816018381414,-2.12905321417843
+"Biome","Biome",8.84847619348401,-0.532916159902253
+"Biosphere","Biosphere",1.21296974589417,-2.73568213431792
+"Birth / Death Rate","BirthDeathRates",5.72746490119002,-1.80682874442577
+"Bottom-up / Top-down Control","BottomUpTopDown",0.404972767026896,0.220964320404406
+"Carnivory","Carnivory",0.904731701015294,-3.37372787262845
+"Carrying Capacity","CarryingCapacity",3.48724995513035,1.37001678528922
+"Character Displacement","CharacterDisplacement",7.87411040511513,-4.04346682579401
+"Chemoautotrophy","Chemoautotrophy",-3.5011645707746,-1.838442866139
+"Chronosequence","Chronosequence",0.399286325467809,2.74450792218831
+"Climax Community","Climax",2.33344851999614,-4.4959991900135
+"Coevolution","Coevolution",-0.296033652669751,3.71506789552938
+"Coexistence","Coexistence",3.33338331804483,3.78495705791407
+"Cohort","Cohort",-0.236636206747751,2.54164215332748
+"Commensalism","Commensalism",1.03215623127962,3.65016547733855
+"Community","Community",1.18546496387872,0.822743835323901
+"Competition","Competition",2.26104714532747,0.277603815582954
+"Competitive Exclusion","ComptetitiveExclusion",3.5544482276014,-4.38456283397443
+"Consumers (e.g. primary, secondary)","Consumers",0.366412805850637,-0.49839832436987
+"Corridors","Corridors",2.46223402159654,4.1607479933089
+"Density-Dependence","DensityDependent",3.16455737615923,0.216611432007726
+"Decomposition","Decomposition",3.95124099314121,-0.465927403127322
+"Dispersal","Dispersal",2.68265748082917,3.34848996514311
+"Disturbance","Disturbance",4.52593516886744,3.21434756714835
+"Detritus","Detritus",-2.66867248265416,-2.60806574868232
+"Detritivory","Detritivory",-2.62119715846123,0.266156288458737
+"Detritus Food Chain","DetritusFoodChain",-0.55177591187359,0.32898471445448
+"Doubling Time","DoublingTime",4.99609869063751,-4.69561054391162
+"Ecosystem","Ecosystem",-0.351608202005805,-0.722001765344031
+"Ecosystem Engineer","EcosystemEngineers",3.2078414162488,-0.744043676025901
+"Edge Effect","EdgeEffect",8.41187515299584,0.937416465309527
+"Ecotype","Ecotype",-2.45124610711913,0.645532859318757
+"Elemental (Nutrient) Flux","ElementalFlux",6.65734907895601,3.13256948514358
+"Elemental (Nutrient) Pool","ElementalPool",-4.55407593937075,-5.5107962111377
+"Elemental (Nutrient) Turnover","ElementalTurnover",2.85563273515611,-2.0379917700186
+"Emigration / Immigration","Emigration",7.34057557928307,-2.5577311132986
+"Energy Flow","EnergyFlow",1.76154192564861,-3.79251422922286
+"Energy Transfer Efficiencies","EnergyTransEffic",4.67899186037113,0.403911656471278
+"Island Biogeography","EquilModIslandBiogeo",3.32092014962856,0.552502020675219
+"Macroevolution","EvolutionMacro",0.842561895994158,-4.65257222892152
+"Microevolution","EvolutionMicro",0.875871635679624,-0.182453332213573
+"Evolutionary Convergence/Divergence","EvoConvergence",-1.53176465597384,2.01311820826417
+"Exponential Growth","ExponentialIncrease",-1.22753453142662,-0.154747439449179
+"Extinction","Extinction",3.66364235230928,-1.36888338562057
+"Facilitation Models of Succession","FacModSuccession",1.76004277692351,1.99291407156796
+"Fecundity","Fecundity",4.65044350554205,-3.14244228529979
+"Fitness","Fitness",4.81884576799725,2.12433789725348
+"Food Chain","FoodChains",-1.58211128324391,-3.11192905196018
+"Food Web","FoodWeb",1.91913816861219,-1.25072476263865
+"Founder Effect","FounderEffect",4.19789776494584,-2.04025796734124
+"Functional Response","FunctionalResponse",3.65002612985818,4.53158675218391
+"Gene","Gene",6.12306464234154,3.50146079298188
+"Genetic Drift","GeneticDrift",2.93284227125963,-4.16796621854314
+"Genotype","Genotype",4.4887143918167,1.20335228550791
+"Geographical Range","GeographicalRange",3.72534385403483,-2.27268849474101
+"Guild","Guild",-0.0786330642982471,0.0594185780730235
+"Habitat","Habitat",5.92856839646111,-0.162348378566001
+"Hardy-Weinberg Equation","HardyWeinbergEquation",5.22073267705323,-0.419117512133313
+"Herbivory","Herbivory",0.123097282962702,-1.37482353131269
+"Heterotrophy","Heterotrophy",1.59352283391316,1.64798111229986
+"Intermediate Disturbance Hypothesis","IntermedDisturHyp",2.15796079238306,-1.54485427409119
+"Intrinsic Increase Rate","IntrinsicIncreaseRate",5.40657667971042,-2.24296869807702
+"Genetic Isolation","IsolationGenetic",5.82553545392137,-0.756633573653483
+"K/r -selection","KrSelection",1.20629099287747,-0.39116114172841
+"Keystone Species","KeystoneSpecies",1.23411674241294,0.000891767130635674
+"Landscape","Landscape",0.00785966728945706,-3.17282833326981
+"Liebigs Law","LiebigsLaw",7.85858097674621,3.30935419228732
+"Lotka-Volterra Predator-Prey Model","LotkaVolterraPredPrey",1.21438702111157,-2.05315435962608
+"Metapopulation","Metapopulation",-1.34206785175002,0.317021751717818
+"Alternative Stable States","Metastability",1.89364506769033,4.26481380208172
+"Mimicry","Mimicry",5.8311013466202,1.17119886146118
+"Mutation","Mutation",8.00508902321144,-5.48331867413227
+"Mutualism","Mutualism",4.47969530611485,2.71947064086262
+"Net Ecosystem Production","NetEcosysProduction",-3.57496004548742,0.206638524216331
+"Niche","Niche",1.89494327799508,1.42737203588069
+"Nutrient","Nutrient",2.74869199953513,0.517803553521571
+"Nutrient Cycling","NutrientCycling",-2.38083088816533,-1.69177891700709
+"Nutrient Spiraling","NutrientSpiraling",1.80310428981738,0.899601201654966
+"Omnivory","Omnivory",2.04501783211656,-1.97260597527117
+"Optimal foraging","Optimization",0.901186682297576,1.69401395432211
+"Organism","Organism",4.46826947373955,-1.76627559293212
+"Parasitism","Parasitism",3.14710334154244,2.57442000874155
+"Patch-Matrix Mosaic","PatchMatrixMosaic",2.70231393137722,-3.00072429872987
+"Pathogensis","Pathogensis",3.77079426678556,-2.66751419107191
+"Phenotype","Phenotype",1.87880554754468,-3.0973521491829
+"Photosynthesis","Photosynthesis",-0.157033852184139,-2.70239372457997
+"Population","Population",0.203123352424917,0.688695205637482
+"Population Growth Mode","PopGrowthModes",0.631490248667398,0.966803292539583
+"Predation","Predation",3.44823275079844,-0.356359494465256
+"Primary Productivity","PrimaryProductivity",2.13549228070704,-0.196768751752754
+"Red Queen Hypothesis","RedQueenHypothesis",4.9592513944261,-1.01063144144315
+"Resilience","Resilience",-1.4326634276974,-4.59443769170704
+"Resistance","Resistance",6.32675775439967,0.764347584858612
+"Respiration","Respiration",-6.4529528714797,0.672295977821222
+"Selection Types (e.g. Natural, Disruptive)","SelectionTypes",-0.360065102664383,1.34091676314107
+"Scale","Scales",6.65798048639756,4.60714351734495
+"Secondary Productivity","SecondaryProductivity",2.27563699424351,-2.20677907023652
+"Sociality","Sociality",5.44417383743341,-6.32000827783733
+"Species","",2.66609876789375,-0.869235884311571
+"Speciation","Speciation",4.560109100464,-0.547392341969754
+"Species Abundance Patterns","SpeciesAbundPatterns",2.34235007928843,2.23566329111798
+"Species-Area Curves","SpeciesAreaRelations",5.36183112701605,0.58814933357476
+"Species Evenness","SpeciesAssembEven",5.44607003935787,2.1523490137779
+"Species Richness","SpeciesAssembRich",0.808705087260049,2.22153652046255
+"Species Categories (e.g. generalist)","SpeciesCategories",1.7973548105351,0.253115178734068
+"Species Distribution Patterns","SpeciesDispPatterns",1.91766860602297,3.29816202911511
+"Species Diversity","SpeciesDiversity",3.54305719934812,0.407928057414047
+"Species Invasions","SpeciesInvasions",-0.553914515753443,1.66452287096453
+"Species Life History","SpeciesLifeHistory",4.05790153452484,2.3180064786072
+"Species Turnover","SpeciesTurnover",7.84588010077056,1.89905610713547
+"Stability","Stability",2.03214711085249,6.38043253005764
+"Stochasticity","Stochasticity",0.523585546465072,4.01569576931289
+"Succession","Succession",0.599448145068373,-2.72598313014474
+"Survivorship","Survivorship",2.88654713650674,-1.50231847002845
+"Symbiosis","Symbiosis",-2.40990421909243,2.55007781308524
+"Sympatry","Sympatry",-0.916731331613616,2.58597120755876
+"Territorality","Territorality",2.83873003062858,1.16903413087513
+"Trophic Level","TrophicLevel",-0.977310782273656,-2.11342926504138
+"Trophic Cascade","TrophicCascade",0.53074702113651,-1.47133772700179
+"Trophic Pyramids","TrophicPyramids",-0.286921246351625,0.653830114018285
+"Zonation (e.g. altitudinal, lateral)","Zonation",1.27624675947041,2.68038213990793
